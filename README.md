@@ -1,13 +1,3 @@
-
-<p align="center"> •
-  <a href="#requirements">Requirements</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation--update">Installation</a> •
-  <a href="#uninstall">Uninstall</a> •
-  <a href="#faq">FAQ</a> •
-  <a href="#disclaimer">Disclaimer</a>
-</p>
-
 <h1 id="requirements">Requirements</h1>
 
 - **OS:** Windows 7-11
