@@ -148,19 +148,3 @@ You can specify various parameters for a more flexible installation, more [detai
 </details>
 
 </details>
-
-<h1 id="uninstall">Uninstall</h1>
-
-- Just run [Uninstall.bat](https://raw.githack.com/amd64fox/SpotX/main/Uninstall.bat)
-
-or
-
-- Reinstall Spotify ([Full uninstall Spotify](https://github.com/amd64fox/Uninstall-Spotify) recommended)
-
-<h1 id="faq">FAQ</h1>
-
- Read [FAQ](https://telegra.ph/SpotX-FAQ-09-19)
-
-<h1 id="disclaimer">Disclaimer</h1>
-
-SpotX is a tool that modifies the official Spotify client, provided as an evaluation version — use it at your own risk.
